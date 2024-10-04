@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+.col, .row {
+    display: flex;
+}
+
+.col {
+    flex-direction: column;
+}
+
+.row {
+    flex-direction: row;
+}
